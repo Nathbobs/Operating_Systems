@@ -1,0 +1,3 @@
+[submodule "xv6-original"]
+	path = xv6-original
+	url = https://github.com/Nathbobs/xv6-public_original
